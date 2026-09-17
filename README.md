@@ -1,2 +1,2 @@
 # skills-knowlwdge.com
-I just created a website within the help of Ai model
+I just created a website with the help of Ai model
