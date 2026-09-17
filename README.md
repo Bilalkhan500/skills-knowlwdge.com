@@ -1,2 +1,2 @@
-# skills-knowlwdge.com
+# skillsknowlwdge.com
 I just created a website with the help of Ai model
